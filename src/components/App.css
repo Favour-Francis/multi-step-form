@@ -1,0 +1,11 @@
+@import 'tailwindcss';
+
+
+
+body {
+    @apply h-screen w-full bg-blue-100 sm:flex sm:justify-center sm:items-center;
+}
+:root {
+    @apply h-screen w-full
+}
+
